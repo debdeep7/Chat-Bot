@@ -1,0 +1,7 @@
+.venv
+.env
+data
+challenge-zip
+tests
+.git
+__pycache__

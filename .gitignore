@@ -1,0 +1,15 @@
+# environments and secrets
+.venv/
+.env
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local-only: organizer's pack (re-download from the challenge page) and generated data
+challenge-zip/
+data/
+
+# editor / tooling
+.claude/
